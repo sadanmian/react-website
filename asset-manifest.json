@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/react-website/static/js/main.10be043d.js",
+    "static/media/man.png": "/react-website/static/media/man.1c8ac92f4049dc685f1c.png",
+    "static/media/how.png": "/react-website/static/media/how.b7b8b924cd2ae0aa9209.png",
+    "static/media/app.png": "/react-website/static/media/app.b833da8d0958a042a535.png",
+    "index.html": "/react-website/index.html",
+    "main.10be043d.js.map": "/react-website/static/js/main.10be043d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.10be043d.js"
+  ]
+}
